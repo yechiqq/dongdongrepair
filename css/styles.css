@@ -213,14 +213,6 @@ a:before, a:after {
 	color: #fff;
 	border-radius: 5px;
 }
-#headerwrap .btn a{
-	color: #fff;
-	text-decoration: none;
-}
-#headerwrap .btn a:hover, #headerwrap .btn a:focus{
-	color: #000;
-	text-decoration: none;
-}
 #headerwrap .btn:hover, #headerwrap .btn:focus {
 	background-color:#fff;
 	color:#000; 
