@@ -101,6 +101,14 @@ a:hover, a:focus {
 	background-color: var(--maincolor);
 }
 
+.featureimage {
+    max-height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 10px;
+}
+
 #about {
 	background: #FFF;
 	padding: 100px 0;
